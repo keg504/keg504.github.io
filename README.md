@@ -1,2 +1,2 @@
 # keg504.github.io
-My Github pages site
+My github pages site

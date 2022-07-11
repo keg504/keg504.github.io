@@ -1,0 +1,19 @@
+:root {
+    font-size: 16px;
+    --text-primary: #FFF;
+    --text-secondary: #6f9283;
+    --bg-primary: #323232;
+    --bg-secondary: #660000;
+}
+
+body {
+    color: var(--text-secondary);
+    background-color: var(--bg-primary);
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    margin-top: 5rem;
+    padding: 1rem;
+}
